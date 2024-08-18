@@ -117,5 +117,8 @@
       "node-gyp",
       "playwright"
     ]
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
   }
 }
